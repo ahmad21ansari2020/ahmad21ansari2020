@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmad21ansari2020
+- 👋 Hi, I’m Ahmad Ansari from Afghanestan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Domain Driven Design
 - 🌱 I’m currently working Asp.net core
